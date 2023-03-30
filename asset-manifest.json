@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cars-Diary/static/css/main.0975139a.css",
+    "main.js": "/Cars-Diary/static/js/main.1fc01c6a.js",
+    "index.html": "/Cars-Diary/index.html",
+    "main.0975139a.css.map": "/Cars-Diary/static/css/main.0975139a.css.map",
+    "main.1fc01c6a.js.map": "/Cars-Diary/static/js/main.1fc01c6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0975139a.css",
+    "static/js/main.1fc01c6a.js"
+  ]
+}
